@@ -119,7 +119,7 @@ Ready to transform your ideas into reality? Let's discuss your project!
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_ORG_NAME&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=imanistack&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
   
   ### ⚡ *Building Tomorrow, Today* ⚡
   
